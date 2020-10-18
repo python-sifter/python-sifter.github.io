@@ -1,3 +1,6 @@
 title: Sifter3 - Sieve email filter (RFC 5228)
 description: Sifter3 is a Python 3 implementation of the Sieve email filter language (RFC 5228)
 theme: jekyll-theme-leap-day
+github:
+  repository_url: https://github.com/python-sifter
+ 
