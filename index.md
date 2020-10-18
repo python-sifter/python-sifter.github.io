@@ -93,3 +93,9 @@ TODO
     -   editheader (RFC 5293)
     -   mailbox metadata (RFC 5490)
     -   xmpp notifications (RFC 5437)
+
+
+COPYRIGHT
+=========
+
+* Sifter Logo: Copyright by Christopher Mallmann
