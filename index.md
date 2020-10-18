@@ -1,7 +1,3 @@
-# Sifter3 - Sieve email filter (RFC 5228)
-
-Sifter3 is a Python 3 implementation of the Sieve email filter language (RFC 5228)
-
 ![Python package](https://github.com/python-sifter/sifter3/workflows/Python%20package/badge.svg)
 [![Documentation Status](https://readthedocs.org/projects/sifter3/badge/?version=latest)](https://sifter3.readthedocs.io/en/latest/?badge=latest)
 [![CodeFactor](https://www.codefactor.io/repository/github/python-sifter/sifter3/badge)](https://www.codefactor.io/repository/github/python-sifter/sifter3)
