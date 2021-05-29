@@ -7,7 +7,7 @@
 [![PyPI downloads](https://pepy.tech/badge/sifter3/month)](https://pepy.tech/project/sifter3/month)
 [![GitHub](https://img.shields.io/github/license/python-sifter/sifter3.svg)](LICENSE)
 
-<img src="https://python-sifter.logfile.at/assets/sifter3.png" width="250" style="float: right;" />
+<img src="https://python-sifter.github.io/assets/sifter3.png" width="250" style="float: right;" />
 
 FEATURES
 ========
